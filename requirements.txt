@@ -1,0 +1,13 @@
+# Calculator Estimasi Penyelesaian Pengujian
+# Mekanika Batuan & Tanah — v1.0
+
+## Desktop / development
+kivy[base]>=2.3.0
+
+# Opsional — membuat UI terlihat lebih modern (Material Design).
+# Aplikasi tetap berjalan penuh tanpa KivyMD.
+kivymd>=1.2.0
+
+## Android (build)
+# Tidak perlu ditulis di sini — dipasang oleh buildozer.
+# Lihat README_BUILD_ANDROID.md
